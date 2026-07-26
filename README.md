@@ -23,7 +23,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://mail.google.com/j.isabeldasilva06@gmail.ocm" target="_blank">
+  <a href="mailto:j.isabeldasilva06@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/julia-lima-a693632a9](https://www.linkedin.com/in/julia-isabel-lima/" target="_blank">
